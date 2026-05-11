@@ -1,0 +1,1 @@
+# Bachelor-Robot-arm-strength-calculations
